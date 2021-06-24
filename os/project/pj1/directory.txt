@@ -1,0 +1,6 @@
+total 28
+drwxr-xr-x 2 os   os    4096  3월 30 14:16 .
+drwxr-xr-x 5 os   os    4096  3월 28 19:06 ..
+-r----x--t 1 root root     0  3월 30 14:16 directory.txt
+-rwxr-xr-x 1 os   os   13336  3월 30 13:57 hw1
+-rw-r--r-- 1 os   os    2845  3월 30 13:56 hw1.c
